@@ -141,3 +141,5 @@
 (desktop-save-mode 1) ; 0 for off
 
 (windmove-default-keybindings)
+(global-auto-revert-mode 1)
+
